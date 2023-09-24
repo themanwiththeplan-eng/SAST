@@ -1,0 +1,1 @@
+## This application will ultimately be a SAST application that allows for people to run locally and attempt to find bugs, vulnerabilities, and secrets. This will hopefully be used by the bug bounty community and make it more accessible to audit source code.
