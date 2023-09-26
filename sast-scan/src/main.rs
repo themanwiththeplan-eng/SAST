@@ -1,5 +1,6 @@
 mod parser;
 
-fn main(){
-    
+use parser::parser::parse;
+fn main(){ 
+    parse("../config.json".to_owned());
 }
